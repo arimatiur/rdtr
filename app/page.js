@@ -121,7 +121,6 @@ export default function Home() {
               </Box>
             ))}
           </Box>
-          
         </Box>
       </Box>
     </Box>
